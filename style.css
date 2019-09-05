@@ -1,3 +1,51 @@
+
+
 h1 {
-    font-family: Georgia, "Times New Roman", serif;
+    font-family: 'Hepta Slab', 'Times New Roman', serif;
 }
+
+#title{
+  width: 50%;
+  margin: auto;
+  text-align: center;
+}
+
+#contact{
+	  display:block;
+    color: #ffffff;
+    background-color: #2A43FF;
+    font-weight: bold;
+    text-align:center;
+    text-decoration: none;
+    padding: 4px;
+    font-family: 'Lato', 'Helvetica', sans-serif;
+  }
+
+  p{
+    text-align: center;
+  }
+
+  h3 {
+      font-family: Georgia, "Times New Roman", serif;
+      text-align: center;
+  }
+
+  #list{
+    color: #666666;
+    font-family: 'Raleway', Arial, sans-serif;
+    text-align: center;
+    list-style-type: none;
+  }
+
+  img{
+    border: none;
+  }
+
+  #footer {
+      color: black;
+      font-family: Georgia, "Times New Roman", serif;
+      font-size: 0.8em;
+      border-top: 1px solid black;
+    }
+
+  body {background-color: #C3E8C7}
